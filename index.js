@@ -8,3 +8,9 @@ function run() {
 }
 
 run();
+
+if (true) {
+	
+} else {
+	
+}
