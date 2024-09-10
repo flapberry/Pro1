@@ -14,3 +14,5 @@ if (true) {
 } else {
 	
 }
+
+console.log('🧣', 'hello world')
